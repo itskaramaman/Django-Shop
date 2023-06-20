@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'store.apps.StoreConfig',
-    'tags.apps.TagsConfig'
+    'tags.apps.TagsConfig',
+    'likes.apps.LikesConfig'
 ]
 
 MIDDLEWARE = [
